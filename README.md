@@ -4,6 +4,6 @@ Attempt to implement Orion VoxNet in PyTorch by N. Sedaghat, M. Zolfaghari, E. A
 
 <img class="" src="./plots/pointnet_1024_heatmap.png", width="200"/><img class="image-align-left" src="./plots/lr1e-7_p0_3_heatmap.png", width="200"/>
 
-#| PointNet                          | Orion                       |
-#| ----------------------------------- | ----------------------------------- |
-#| ![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) |
+| PointNet                          | Orion                       |
+| ----------------------------------- | ----------------------------------- |
+| ![PointNet](./plots/pointnet_1024_heatmap.png) | ![Orion](./plots/lr1e-7_p0_3_heatmap.png) |
